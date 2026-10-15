@@ -15,7 +15,7 @@ console.log(saludar(), saludar("Ana")); // Hola, invitado Hola, Ana console.log(
 const descuento = 0.10; 
 // descuento = 0.20;
 
-// ===== Ejercicio 3: Desestructuración ===== 
+// ==== Ejercicio 3: Desestructuración ====
 const persona = { nombre: "Ana", edad: 22 }; 
 const { nombre, edad, ciclo = "V" } = persona; 
 console.log(nombre, edad, ciclo); // Ana 22 V 
