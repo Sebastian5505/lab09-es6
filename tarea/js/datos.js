@@ -1,3 +1,4 @@
+// Modulo de datos
 export const estudiantes = [
   { nombre: "Ana", nota: 16.3 },
   { nombre: "Luis", nota: 12.0 },
