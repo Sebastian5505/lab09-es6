@@ -1,3 +1,4 @@
+// Script principal
 import { estudiantes } from './datos.js';
 import { evaluarEstado } from './calculos.js';
 
